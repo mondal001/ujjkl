@@ -1,0 +1,131 @@
+
+h1{
+    color:blue;
+}
+select{
+    background-color:blue;
+    color:white;
+    position: absolute;
+    top:17px;
+    left:140px;
+    height: 30px;;
+    width: 75px;
+}
+input{
+    position: absolute;
+    top:19px;
+    left: 230px;
+    height:25px;
+    width: 250px;
+    color:rgb(80, 76, 76);
+    background-color: transparent;
+}
+.search{
+position:absolute;
+top:19px;
+left:460px;
+height:25px;
+width: 25px;
+background-color: blue;
+border-color: transparent;
+}
+.searchimg{
+height:13px;
+width:13px;
+
+}
+.one{
+position:absolute;
+top: 19px;
+left: 920px;
+color: black;
+background-color: transparent;
+border-color: transparent;
+}
+.two{
+position:absolute;
+top: 19px;
+left: 1030px;
+color: black;
+background-color: transparent;
+border-color: transparent;
+
+}
+.three{
+position: absolute;
+top: 19px;
+left: 1130px;
+color: blue;
+background-color: transparent;
+border-color: transparent;
+
+}
+.join{
+    background-color:blue;
+    color:white;
+    position: absolute;
+    top:17px;
+    left:1175px;
+    height: 30px;
+    width: 110px;
+    border-color: transparent;
+}
+.text{
+    font-size: 70px;
+    position: absolute;
+    left: 100px;
+}
+.tt{
+    position: absolute;
+    left: 100px;
+    top:300px; 
+}
+.free{
+    height: 50;
+    width: 150px;
+    color: aliceblue;
+    background-color: blue;
+    border-color: transparent;
+    position: absolute;
+    left: 100px;
+    top:370px; 
+}
+.buis{
+    height: 50;
+    width: 180px;
+    color:blue;
+    background-color:transparent;
+    border-color: blue; 
+    position: absolute;
+    left: 255px;
+    top:370px; 
+}
+.me{
+    height: 400px;
+    width: 300px;
+    position: absolute;
+    left: 900px;
+    top: 130px;
+    
+}
+.free:hover{
+    height: 50;
+    width: 150px;
+    color:blue;
+    background-color:transparent;
+    border-color: blue;
+    position: absolute;
+    left: 100px;
+    top:370px; 
+    transition: 2s;
+}
+.buis:hover{
+    height: 50;
+    width: 180px;color: aliceblue;
+    background-color: blue;
+    border-color: transparent; 
+    position: absolute;
+    left: 255px;
+    top:370px; 
+    transition:2s;
+}
